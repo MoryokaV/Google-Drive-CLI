@@ -20,10 +20,10 @@ Linux / MacOS: - Add in your .zshrc / .bashrc a varable called "DRIVE_HOME" and 
                (For the first run the browser will prompt to give API access to your account)
          
 
-  download(d) + file name | -> downloading file/folder from GDrive
-  upload(u) + file name | -> uploading file/folder to GDrive
-  root | -> showing the root folders and files from GDrive
-  files | -> showing all files
-  precache | -> installing required programs for running API
-  search + file name | -> check for specified file availability in your Drive
-  delete + file name | -> delete a file from your drive root
+  download(d) + file name | -> downloading file/folder from GDrive  
+  upload(u) + file name | -> uploading file/folder to GDrive  
+  root | -> showing the root folders and files from GDrive  
+  files | -> showing all files  
+  precache | -> installing required programs for running API  
+  search + file name | -> check for specified file availability in your Drive  
+  delete + file name | -> delete a file from your drive root  
