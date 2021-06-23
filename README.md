@@ -19,7 +19,7 @@ Linux / MacOS: - Add in your .zshrc / .bashrc a varable called "DRIVE_HOME" and 
                - Now go open the Terminal and call it "sync.py" + the words mentioned below  
                (For the first run the browser will prompt to give API access to your account)  
          
-
+# Usage
   download(d) + file name | -> downloading file/folder from GDrive  
   upload(u) + file name | -> uploading file/folder to GDrive  
   root | -> showing the root folders and files from GDrive  
