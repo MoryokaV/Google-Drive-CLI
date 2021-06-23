@@ -4,7 +4,7 @@ Command line program for making your terminal even more functional!
 
 The project is cross-platform (Windows, MacOS, Linux)!
 
-# To use this script you need a few steps of settings:
+# To use this script you need a few settings:
 
 Windows: - Go to "Edit Environment Variables for your account"  
          - Add a new variable called "DRIVE_HOME" and add the script directory there  
